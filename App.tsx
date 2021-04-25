@@ -11,6 +11,7 @@ import {
 } from '@expo-google-fonts/jost';
 
 
+
 export default function App(){
 	const [fontsLoaded] = useFonts({
 		Jost_400Regular,
@@ -21,7 +22,7 @@ export default function App(){
 		return <AppLoading />
 		
 
-	return (
+	return(
 		<Routes />
 	)
 }
