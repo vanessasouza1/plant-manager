@@ -81,7 +81,6 @@ const styles = StyleSheet.create({
     },
     title: {
         fontSize:28,
-        fontWeight: 'bold',
         textAlign: 'center',
         //do arquivo colors
         color: colors.heading,

@@ -30,7 +30,7 @@ export function Header(){
             <View>
                 <Text style={styles.greeting}>Olá,</Text>
                 <Text style={styles.userName}>
-                    {setUserName}
+                    {userName}
                 </Text>
             </View>
 
